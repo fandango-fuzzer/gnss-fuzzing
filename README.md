@@ -1,7 +1,3 @@
-Here’s a clean and concise README template for your repository:
-
----
-
 # Fandango GNSS Fuzzing
 
 This repository contains the implementation of **Fandango**, a flexible fuzzing tool tailored for testing GNSS (Global Navigation Satellite System) modules and other binary protocols. The tool leverages evolutionary algorithms to automatically generate inputs based on a user-defined grammar, allowing testers to target specific edge cases and vulnerabilities.
@@ -18,7 +14,6 @@ The primary goal of this project is to show how easily tailored fuzzing goals an
 - [Constraints and Fuzzing Configuration](#constraints-and-fuzzing-configuration)
 - [Results](#results)
 - [Contributions](#contributions)
-- [License](#license)
 
 ---
 
