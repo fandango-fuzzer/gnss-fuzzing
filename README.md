@@ -93,9 +93,3 @@ These constraints ensure that the generated test cases are realistic and target 
 ## Results
 
 Once fuzzing is complete, you can analyze the test results. Any generated inputs that result in crashes or unexpected behavior can be found in the `crashes` directory. These files are saved for further analysis and debugging.
-
----
-
-## Contributions
-
-We welcome contributions to improve and extend Fandango's functionality. If you have ideas, bug fixes, or improvements, feel free to fork the repository and submit a pull request.
