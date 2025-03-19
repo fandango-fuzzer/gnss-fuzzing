@@ -23,7 +23,7 @@ To run the Fandango GNSS fuzzing tests, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/gnss-fuzzing.git
+    git clone https://github.com/fandango-fuzzer/gnss-fuzzing.git
     cd gnss-fuzzing
     ```
 
